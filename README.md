@@ -1,5 +1,5 @@
 ### Hi there 👋
-Student at FAST-NUCES Lahore 21'
+Student at FAST-NUCES Lahore 21'-25'
 Welcome :)
 <!--
 **mahadhabib/mahadhabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
